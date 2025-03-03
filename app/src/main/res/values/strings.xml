@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Petagram2</string>
+    <string name="tv_nombre">Coralina</string>
+    <string name="tv_likes">5</string>
+    <string name="tv_spaces">---------</string>
+    <string name="imgv_hueso1">iv_Hueso1</string>
+    <string name="imgv_hueso2">iv_Hueso2</string>
+    <string name="perro1">Coco</string>
+    <string name="perro2">Billy</string>
+    <string name="perro3">Tony</string>
+    <string name="perro4">Moncho</string>
+    <string name="perro5">Chicho</string>
+    <string name="perro6">Bronco</string>
+    <string name="perro7">Caro</string>
+    <string name="perro8">Pompa</string>
+    <string name="contacto">Contacto</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="biografia">Esta aplicación fue realizada por un alumno anónimo en horas quitadas al sueño con la unica intencion de completar la tarea asignada de una manera correcta.</string>
+    <string name="titulo_acerca_de">Biografia del Autor</string>
+    <string name="titulo_contacto">Ingrese los siguientes datos</string>
+    <string name="correo">Correo:</string>
+    <string name="nombre">Nombre de que envia:</string>
+    <string name="mensaje">Mensaje:</string>
+    <string name="enviar">Enviar Mensaje</string>
+    <string name="clave_email">KeyEmail</string>
+    <string name="clave_nomebre">KeyNombre</string>
+    <string name="clave_mensaje">KeyMensaje</string>
+    <string name="error_nombre">Nombre inválido, no se puede enviar el correo</string>
+    <string name="error_mail">E-Mail inválido, no se puede enviar el correo</string>}
+    <string name="error_mensaje">Contenido nulo, no se puede enviar el correo</string>
+    <string name="correo_enviado">El correo ha sido enviado con los datos previos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">fragmento lista de mascotas</string>
+    <string name="hello_blank_fragment1">fragmento Detalle de mascotas</string>
+</resources>
